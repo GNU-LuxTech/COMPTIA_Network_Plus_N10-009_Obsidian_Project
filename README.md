@@ -3,6 +3,8 @@
 > A structured knowledge base for the **CompTIA Network+ N10-009** certification exam, built with [Obsidian](https://obsidian.md/).  
 > Created and maintained by **Mattia Vacca** · [GNU-LuxTech](https://github.com/GNU-LuxTech)
 
+> 🇮🇹 Descrizione in italiano disponibile → [Clicca qui](#-versione-italiana) ↓
+
 ---
 
 ## 📖 About
